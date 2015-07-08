@@ -1,0 +1,11 @@
+{
+    "version": "3.3.5",
+    "description": "简洁、直观、强悍的前端开发框架，让web开发更迅速、简单",
+    "name": "bootstrap",
+    "main": "css/bootstrap.css",
+    "shim": {
+        "js/bootstrap.js": {
+            "deps": ["jquery"]
+        }
+    }
+}
